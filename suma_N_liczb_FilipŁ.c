@@ -14,6 +14,7 @@ int main()
         scanf("%d",&l);
         s=s+l;
     }
+    
     printf("Suma tych liczb wychodzi %d",s);
     return 0;
 }
